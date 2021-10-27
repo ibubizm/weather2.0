@@ -1,0 +1,11 @@
+.info-block{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.days{
+    display: flex;
+    overflow: hidden;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+}
